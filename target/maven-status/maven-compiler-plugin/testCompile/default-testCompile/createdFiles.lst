@@ -1,0 +1,15 @@
+Model\LibraryTest.class
+Servlet\TestAuthorServlet.class
+Repository\LibraryDbTest.class
+AuthorTest.class
+AuthorServiceTest.class
+Mapper\LibraryMapperTest.class
+Repository\BookDbTest.class
+Service\LibraryServiceTest.class
+Mapper\AuthorMapperTest.class
+Servlet\TestLibraryServlet.class
+BookServiceTest.class
+Repository\AuthorDbTest.class
+Servlet\TestBookServlet.class
+Model\BookTest.class
+Mapper\BookMapperTest.class

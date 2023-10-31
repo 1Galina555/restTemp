@@ -1,0 +1,3 @@
+gitRequest needed
+Valid requests:
+/add/?title=SomeTitle&genre=someGenre&library_id=x&author_id=y
